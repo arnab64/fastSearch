@@ -16,4 +16,12 @@ A production ready multi-purpose custom search framework based on top of Elastic
 ## Usage
 - fastSearch will be supported on Shopify and other seller platforms  
 - fastSearch will also be available as a Python library, and a run-time API
-- powering search services for Stella (in-house AI) 
+- powering search services for Stella (in-house AI)
+
+## Sections (to be completed by Feb-2021). Notebooks available inside the folder /sections.
+- Data transformation to search optimized data
+- Search optimized feature engineering
+- Creation of dense vectors on textual features 
+- Indexing data to ElasticSearch
+- How to add dense vectors, and computing feature dependent 
+- Creating a 'search bar' in Js
